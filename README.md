@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amar-jain
-- 👀 I’m interested in creating tools/utilities for 
+- 👀 I’m interested in creating tools/utilities.
 - 🌱 I’m currently learning Rust
 
 <!---
